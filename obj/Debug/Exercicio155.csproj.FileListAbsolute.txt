@@ -1,0 +1,6 @@
+/Users/sunset/Projects/Exercicio155/bin/Debug/Exercicio155.exe
+/Users/sunset/Projects/Exercicio155/bin/Debug/Exercicio155.pdb
+/Users/sunset/Projects/Exercicio155/obj/Debug/Exercicio155.csproj.AssemblyReference.cache
+/Users/sunset/Projects/Exercicio155/obj/Debug/Exercicio155.csproj.CoreCompileInputs.cache
+/Users/sunset/Projects/Exercicio155/obj/Debug/Exercicio155.exe
+/Users/sunset/Projects/Exercicio155/obj/Debug/Exercicio155.pdb
